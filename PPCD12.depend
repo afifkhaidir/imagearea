@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449599427 source:c:\users\ecs\documents\codeblocks\ppcd12\main.cpp
+	<cv.h>
+	<highgui.h>
+	<iostream>
+
